@@ -1,0 +1,11 @@
+.changeColor {
+    position: absolute;
+    top: 0;
+    left: 580px;
+    color: red;
+}
+.button {
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
